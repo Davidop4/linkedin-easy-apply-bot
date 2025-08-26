@@ -4,12 +4,12 @@ A tool designed to save you time when applying to linkedin jobs by applying to t
 
 To run this tool follow the following steps
 
-### First step, install the project's dependencies:
+## First step, install the project's dependencies:
 ```
 npm i
 ```
 
-### Second step, copy the sample configuration file to your environment and fill it with your information
+## Second step, copy the sample configuration file to your environment and fill it with your information
 ```
 cp sample_config.ts config.ts
 ```
@@ -62,7 +62,7 @@ export default {
 }
 ```
 
-### Third step, run the program
+## Third step, run the program
 
 ```
 npm run apply
